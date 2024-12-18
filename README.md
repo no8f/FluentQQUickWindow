@@ -15,9 +15,9 @@ My Implementaion may be shit :)
   - **Animations**
   - **Aero snap** ⚠️ This could make the Window unusable for some applications
 - ### Mac Os
-  -⚠️Not Tested
+  -⚠️Not Implemented
 - ## Linux
-  -⚠️Not Tested; will follow sometime
+  -⚠️Not Implemented; will follow sometime
 
 ## Usage
 
