@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ic_fluent_chevron_down_24_filled.svg</file>
+        <file>icons/ic_fluent_dismiss_24_filled.svg</file>
+        <file>icons/ic_fluent_maximize_24_filled.svg</file>
+    </qresource>
+</RCC>
