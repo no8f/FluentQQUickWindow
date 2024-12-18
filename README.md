@@ -21,6 +21,9 @@ My Implementaion may be shit :)
 
 ## Usage
 
+> [!NOTE]
+> A basic usage example with working title buttons: ``Main.qml``
+
 This thing does not compile into a lib, because its only two files.
 
 - Download this repo
