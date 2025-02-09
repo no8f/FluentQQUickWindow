@@ -4,16 +4,7 @@ A very slimmed down QQuickWindow with support for the Mica material, it has no f
 
 My Implementaion may be shit :)
 
-## Features
-- **Backdrop suppport**: currently Mica, will add more
-- **Global Dragging**: when enabled you can grab the window anywehre to drag it
-- **Customisable Resize Margins**: you can change the width of the hit area for resize activation
-- **Basic Window Funktionality**: min, max and floating state and resizing
-
 ## What Does Not Work
-- ### Windows
-  - **Animations**
-  - **Aero snap** ⚠️ This could make the Window unusable for some applications
 - ### Mac Os
   -⚠️Not Implemented
 - ## Linux

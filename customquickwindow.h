@@ -76,15 +76,6 @@ public:
 signals:
     void resized(const QRect& newSize);
 
-protected:
-    void mousePressEvent(QMouseEvent* event) override;
-
-    void mouseMoveEvent(QMouseEvent* event) override;
-
-    void mouseReleaseEvent(QMouseEvent* event) override;
-
-    void updateCursorShape(const QPoint& pos);
-
 private:
     CustomQQuickWindowPriv* _p;
 };

@@ -39,7 +39,8 @@ set_target_properties(appFluentQQUickWindow PROPERTIES
 )
 
 target_link_libraries(appFluentQQUickWindow
-    PRIVATE Qt6::Quick
+    PRIVATE
+    Qt6::Quick
     Qt6::Widgets
     dwmapi
 )
